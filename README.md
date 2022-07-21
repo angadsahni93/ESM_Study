@@ -1,5 +1,5 @@
 # SMARTPHONE Study
-This page contains information about the ESM study being conducted by the NRG lab, University of Reading. <br>
+This page contains information about the SMARTPHONE study being conducted by the NRG lab, University of Reading. <br>
 
 This is a study being conducted by the NRG ([nrg-lab.co.uk](https://www.nrg-lab.co.uk/)) by the following researchers:<br><br>
 Prof. Ciara McCabe (c.mccabe@reading.ac.uk) 
