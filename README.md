@@ -16,6 +16,14 @@ Tarun Vermani (<a href="mailto:t.vermani@student.reading.ac.uk">t.vermani@studen
 ## Instruction Video
 
 <iframe width="836" height="470" src="https://www.youtube.com/embed/AivE2o9IXr4" title="University of Reading || PsyMate2 || SMARTPHONE Study Instructions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+<h3 style="color:red">IMPORTANT</h3>
+
+1.	Fill in the beep questionnaire **immediately or as soon as possible**.
+2.	If you fail to complete a test, it’s okay. Please ensure you **complete as many as possible**. 
+3.	Be sure to <b><u>log out</u></b> after the debrief form has been filled, or else **your data will not be sent**.<br> You need an active internet connection to be able to upload your data.
+
 
 <br>
 <br>
