@@ -43,9 +43,11 @@ Scan your **unique QR code** you will have received by email. If the login detai
 <br>
 
 **Step 3**<br>
-After completing the login process, please make sure you **complete all items** before leaving this page or your data may not be usable. 
+After completing the login process, please make sure you **complete all items** before leaving this page or your data may not be usable.<br>
 The page should look like this:  
-
+<br>
+<br>
+<p align="center"> <img width="200" src="psymate2.png" alt="psymate2"> </p>
 
 
 
