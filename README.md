@@ -28,7 +28,7 @@ Download the <b>PsyMate2</b> application from one of the links below, based on w
 The iPhone link can be found here: [https://apps.apple.com/gb/app/psymate-2/id1185231488](https://apps.apple.com/gb/app/psymate-2/id1185231488) <br>
 The Android link can be found here: [https://play.google.com/store/apps/details?id=eu.smarthealth.umesm](https://play.google.com/store/apps/details?id=eu.smarthealth.umesm) <br><br>
 Or you can open the AppStore yourself and download the application by searching for <b>PsyMate2</b> and looking for the logo:<br>
-![](main/psymate.jpg)
+![](ESM_Study/psymate.jpg)
  
  
 
