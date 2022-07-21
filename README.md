@@ -10,7 +10,7 @@ Tarun Vermani (<a href="mailto:t.vermani@student.reading.ac.uk">t.vermani@studen
 
 <br>
 
-#### You can view the instructions in [<u>video</u>](README.md#instruction-video) or [<u>written</u>](README.md#instruction-video) form. 
+#### You can view the instructions in [<u>video</u>](README.md#instruction-video) or [<u>written</u>](README.md#instruction-video) form. <br>Both contain the same information.
 
 
 ## Instruction Video
