@@ -71,6 +71,7 @@ After the final ‘beep’ prompt, you will receive a **debrief form** to comple
 <br>
 
 <h3 style="color:red">IMPORTANT</h3>
+
 1.	Fill in the beep questionnaire **immediately or as soon as possible**.
 2.	If you fail to complete a test, it’s okay. Please ensure you **complete as many as possible**. 
 3.	Be sure to <b><u>log out</u></b> after the debrief form has been filled, or else **your data will not be sent**.<br> You need an active internet connection to be able to upload your data.
