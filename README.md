@@ -23,11 +23,11 @@ Tarun Vermani (<a href="mailto:t.vermani@student.reading.ac.uk">t.vermani@studen
 
 ### Written Instructions
 
-Step 1 
-Download the PsyMate2 application from one of the links below, based on which mobile type you are using:
-The iPhone link can be found here: https://apps.apple.com/gb/app/psymate-2/id1185231488
-The Android link can be found here: https://play.google.com/store/apps/details?id=eu.smarthealth.umesm
-Or you can open the AppStore yourself and download the application by searching for PsyMate2 and looking for the logo:
+**Step 1** <br>
+Download the <b>PsyMate2</b> application from one of the links below, based on which mobile type you are using:<br><br>
+The iPhone link can be found here: [https://apps.apple.com/gb/app/psymate-2/id1185231488](https://apps.apple.com/gb/app/psymate-2/id1185231488) <br>
+The Android link can be found here: [https://play.google.com/store/apps/details?id=eu.smarthealth.umesm](https://play.google.com/store/apps/details?id=eu.smarthealth.umesm) <br><br>
+Or you can open the AppStore yourself and download the application by searching for <b>PsyMate2</b> and looking for the logo:
  
  
 
