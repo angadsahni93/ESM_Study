@@ -25,25 +25,25 @@ Tarun Vermani (<a href="mailto:t.vermani@student.reading.ac.uk">t.vermani@studen
 
 **Step 1** <br>
 Download the <b>PsyMate2</b> application from one of the links below, based on which mobile type you are using:<br><br>
-The iPhone link can be found here: [https://apps.apple.com/gb/app/psymate-2/id1185231488](https://apps.apple.com/gb/app/psymate-2/id1185231488) <br>
-The Android link can be found here: [https://play.google.com/store/apps/details?id=eu.smarthealth.umesm](https://play.google.com/store/apps/details?id=eu.smarthealth.umesm) <br><br>
-Or you can open the AppStore yourself and download the application by searching for <b>PsyMate2</b> and looking for the logo:<br>
+The **iPhone** link can be found here: [https://apps.apple.com/gb/app/psymate-2/id1185231488](https://apps.apple.com/gb/app/psymate-2/id1185231488) <br>
+The **Android** link can be found here: [https://play.google.com/store/apps/details?id=eu.smarthealth.umesm](https://play.google.com/store/apps/details?id=eu.smarthealth.umesm) <br><br>
+Or you can open the AppStore yourself and download the application by searching for <b>PsyMate2</b> and looking for the logo:
+<br>
+<br>
+<p align="center"> <img width="200" src="psymate.jpg" alt="psymate"> </p>
+<br>
 
-![](blob/main/psymate.jpg)
- 
- 
+Both links are available on the PsyMate website: [https://www.psymate.eu](https://www.psymate.eu)
+<br>
+<br>
 
+**Step 2**<br> 
+Scan your **unique QR code** you will have received by email. If the login details don’t work, please email **Angad Sahni**. 
+<br>
+<br>
 
-
-
-
-Both links are available on the PsyMate website: https://www.psymate.eu
-
-Step 2 
-Scan the QR code you will have received by email. If the login details don’t work, please email the researchers for a new set of login details. 
-
-Step 3
-After completing the login process, please make sure you complete all items before leaving this page or your data may not be usable. 
+**Step 3**<br>
+After completing the login process, please make sure you **complete all items** before leaving this page or your data may not be usable. 
 The page should look like this:  
 
 
